@@ -286,3 +286,4 @@
 		]
 	}
 }
+"clang-tidy.executable": "buildscripts/clang_tidy_vscode.py.fix",
